@@ -1,781 +1,448 @@
-﻿#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-web-us-west-2-tunein-com.s3-us-west-2.amazonaws.com/assets/img/shared/tiles/todays-hits-small.jpg" group-title="网络广播" radio="true",Today’s Hits
-http://rfcmedia.streamguys1.com/MusicPulsePremium.mp3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/newpophits.png" group-title="网络广播" radio="true",Pop Hits
-http://rfcmedia.streamguys1.com/newpophitspremium.mp3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s249914/images/logod.png?t=1" group-title="网络广播" radio="true",Alternative Hits
-http://rfcmedia.streamguys1.com/alternativehitspremium.mp3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s249981/images/logog.jpg?t=2" group-title="网络广播" radio="true",Country Hits
-http://rfcmedia.streamguys1.com/countryhitspremium.mp3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s224628/images/logog.jpg?t=4" group-title="网络广播" radio="true",Country Roads
-http://rfcmedia.streamguys1.com/countryroadspremium.mp3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s249937/images/logog.jpg?t=2" group-title="网络广播" radio="true",Relax & Unwind
-http://rfcmedia.streamguys1.com/relaxationpremium.mp3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s249973/images/logog.jpg?t=162282" group-title="网络广播" radio="true",Smooth Jazz
-http://rfcmedia.streamguys1.com/smoothjazzpremium.mp3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s291088g.png" group-title="网络广播" radio="true",The Hit List
-http://rfcmedia.streamguys1.com/srhitlist.mp3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s303095/images/logod.png?t=158589" group-title="网络广播" radio="true",Dance One
-http://rfcmedia.streamguys1.com/srdanceone.mp3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn-profiles.tunein.com/g385/images/logod.png?t=636564760576470000" group-title="网络广播" radio="true",Disco Beats
-http://rfcmedia.streamguys1.com/srdiscobeats.mp3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s249981/images/logog.jpg?t=2" group-title="网络广播" radio="true",Today's Country Hits
-http://rfcmedia.streamguys1.com/srtodayscountryhits.mp3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s293704g.png" group-title="网络广播" radio="true",Coffee House ☕️
-http://rfcmedia.streamguys1.com/coffeehousepremium.mp3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s138074/images/logog.png?t=158317" group-title="网络广播" radio="true",Big B Radio - 中文流行
-http://cpop.bigbradio.net/s
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s135096/images/logog.png?t=158317" group-title="网络广播" radio="true",Big B Radio - 韩语流行
-http://kpop.bigbradio.net/s
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s135097/images/logog.png?t=158317" group-title="网络广播" radio="true",Big B Radio - 日语流行
-http://jpop.bigbradio.net/s
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s54185/images/logog.png?t=158645" group-title="网络广播" radio="true",Big B Radio - 亚洲流行
-http://apop.bigbradio.net/s
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络广播" radio="true",Modern Radio
-http://play.redefine.ltd/Stream1/FM1058-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络广播" radio="true",电音电台
-http://play.redefine.ltd/Stream3/FM1058-3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络广播" radio="true",古典音乐台
-http://play.redefine.ltd/Stream2/FM1058-2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/河南新闻广播.png" group-title="综合广播" radio="true",河南新闻广播
-https://stream.hndt.com/live/xinwen/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/河南经济广播.png" group-title="综合广播" radio="true",河南经济广播
-https://stream.hndt.com/live/jingji/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/河南交通广播.png" group-title="综合广播" radio="true",河南交通广播
-https://stream.hndt.com/live/jiaotong/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/河南戏曲广播.png" group-title="综合广播" radio="true",河南戏曲广播
-https://stream.hndt.com/live/yule/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/河南音乐广播.png" group-title="综合广播" radio="true",河南音乐广播
-https://stream.hndt.com/live/yinyue/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/大象资讯台.png" group-title="综合广播" radio="true",大象资讯台
-https://stream.hndt.com/live/nongcun/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/My%20Radio.png" group-title="综合广播" radio="true",My Radio
-https://stream.hndt.com/live/yingshi/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/私家车999.png" group-title="综合广播" radio="true",私家车999
-https://stream.hndt.com/live/sijiache/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/河南教育广播.jpg" group-title="综合广播" radio="true",河南教育广播
-https://stream.hndt.com/live/jiaoyu/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/乐龄105.6.png" group-title="综合广播" radio="true",河南信息广播
-https://stream.hndt.com/live/leling/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/Big%20Radio.jpg" group-title="综合广播" radio="true",Big Radio
-https://stream.hndt.com/live/gudian/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/环球资讯广播.png" group-title="综合广播" radio="true",CRI环球资讯广播
-https://satellitepull.cnr.cn/live/wxhqzx01/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/华语环球广播.png" group-title="综合广播" radio="true",CRI华语环球广播
-http://sk.cri.cn/hyhq.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/chinaplusradio.png" group-title="综合广播" radio="true",CRI英语环球广播 China Plus Radio 
-http://sk.cri.cn/am846.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/chinaplusradio.png" group-title="综合广播" radio="true",CRI外语教学广播 China Plus Radio 
-http://sk.cri.cn/am1008.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/南海之声.png" group-title="综合广播" radio="true",CRI南海之声
-http://sk.cri.cn/nhzs.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/轻松调频.png" group-title="综合广播" radio="true",CRI轻松调频
-http://sk.cri.cn/915.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/p38821d.png" group-title="综合广播" radio="true",CRI粤语国际
-http://sk.cri.cn/hxfh.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/中国之声.png" group-title="综合广播" radio="true",CNR中国之声
-http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/经济之声.png" group-title="综合广播" radio="true",CNR经济之声
-http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/文艺之声.png" group-title="综合广播" radio="true",CNR文艺之声
-http://audiows010.cnr.cn/live/wyzs192/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/阅读之声.png" group-title="综合广播" radio="true",CNR阅读之声
-http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/台海之声.png" group-title="综合广播" radio="true",CNR台海之声
-http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/乡村之声.png" group-title="综合广播" radio="true",CNR乡村之声
-http://ngcdn017.cnr.cn/live/xczs/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/老年之声.png" group-title="综合广播" radio="true",CNR老年之声
-http://ngcdn011.cnr.cn/live/lnzs/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/cnr民族之声.png" group-title="综合广播" radio="true",CNR民族之声
-http://ngcdn009.cnr.cn/live/mzzs/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/cnr香港之声.png" group-title="综合广播" radio="true",CNR香港之声
-http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/大湾区之声.png" group-title="综合广播" radio="true",CNR大湾区之声
-http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/cnr神州之声.png" group-title="综合广播" radio="true",CNR神州之声
-http://ngcdn006.cnr.cn/live/szzs/index.m3u8
-#EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="https://live.fanmingming.com/radio/中国交通广播.png" group-title="综合广播" radio="true",CNR中国交通广播
-http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/长三角之声.png" group-title="综合广播" radio="true",上海长三角之声
-https://satellitepull.cnr.cn/live/wx32dfgbdt/playlist.m3u8
-#EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="https://upload.ajmide.com/p/image/202101/14/142407-nN2AikHyrt1610609292338_1915x1915.jpg" group-title="综合广播" radio="true",上海第一财经广播
-https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2020/0701/20200701052348.png" group-title="综合广播" radio="true",天津静海区综合广播·交通广播网
-http://starfish.bj.aliyun.001.qingting.fm:8000/jingdianFM1008
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://wx3.sinaimg.cn/mw2000/74c40dealy8gq8y3155j1j20u00u0myp.jpg" group-title="综合广播" radio="true",湖南潇湘之声
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img-ossimg.ajmide.com/program/29834-1GFeSt_331x331.jpg@350w_1l" group-title="综合广播" radio="true",湖南经济广播
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2021/0831/20210831043119.jpeg" group-title="综合广播" radio="true",湖南旅游广播·PoPoPod播客电台
-https://satellitepull.cnr.cn/live/wx32hunlygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/湖南交通广播.png" group-title="综合广播" radio="true",湖南交通广播
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/金鹰955.png" group-title="综合广播" radio="true",湖南金鹰之声
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/湖南新闻综合广播.png" group-title="综合广播" radio="true",湖南综合广播
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/北京体育广播.png" group-title="综合广播" radio="true",北京体育广播
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/江苏故事广播.png" group-title="综合广播" radio="true",江苏故事广播
-https://satellitepull.cnr.cn/live/wx32jsgsgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/江苏新闻综合广播.png" group-title="综合广播" radio="true",江苏新闻综合广播
-https://satellitepull.cnr.cn/live/wx32jsxwzhgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/江苏新闻广播.png" group-title="综合广播" radio="true",江苏新闻广播
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/江苏文艺广播.png" group-title="综合广播" radio="true",江苏文艺广播
-https://satellitepull.cnr.cn/live/wx32jswygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/金陵之声.png" group-title="综合广播" radio="true",江苏金陵之声
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/江苏交通广播.png" group-title="综合广播" radio="true",江苏交通广播
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/江苏财经广播.png" group-title="综合广播" radio="true",江苏财经广播
-https://satellitepull.cnr.cn/live/wx32jscjgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/江苏健康广播.png" group-title="综合广播" radio="true",江苏健康广播
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/苏州生活广播.png" group-title="综合广播" radio="true",苏州生活广播
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/苏州儿童广播.png" group-title="综合广播" radio="true",苏州儿童广播
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/苏州综合广播.png" group-title="综合广播" radio="true",苏州综合广播
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/sso/198/1631607649319_Vd7ueakoB.jpeg" group-title="综合广播" radio="true",苏州交通经济广播
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pic.qingting.fm/2018/0212/20180212113048425.jpg" group-title="综合广播" radio="true",苏州戏曲广播
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/安徽之声.png" group-title="综合广播" radio="true",安徽之声
-https://satellitepull.cnr.cn/live/wxahxxgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/安徽城市之声.png" group-title="综合广播" radio="true",安徽生活广播·城市之声
-https://satellitepull.cnr.cn/live/wxahshgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/安徽经济广播.png" group-title="综合广播" radio="true",安徽经济广播
-https://satellitepull.cnr.cn/live/wxahjjgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/安徽交通广播.png" group-title="综合广播" radio="true",安徽交通广播
-https://satellitepull.cnr.cn/live/wxahjtgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/安徽高速之声.png" group-title="综合广播" radio="true",安徽旅游广播·高速之声
-https://satellitepull.cnr.cn/live/wxahlygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/安徽戏曲广播.png" group-title="综合广播" radio="true",安徽戏曲广播·动听995
-https://satellitepull.cnr.cn/live/wxahxqgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/安徽故事广播.png" group-title="综合广播" radio="true",安徽故事广播
-https://satellitepull.cnr.cn/live/wxahxspsgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/湖北之声.png" group-title="综合广播" radio="true",湖北之声
-https://satellitepull.cnr.cn/live/wx32hubzsgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/楚天交通广播.png" group-title="综合广播" radio="true",楚天交通广播
-https://satellitepull.cnr.cn/live/wx32hubctjtgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/湖北亲子广播.png" group-title="综合广播" radio="true",湖北亲子广播
-https://satellitepull.cnr.cn/live/wx32hubfnetgb/playlist.m3u8
-#EXTINF:-1 tvg-id="1781" tvg-name="湖北生活频道" tvg-logo="https://live.fanmingming.com/radio/湖北生活广播.png" group-title="综合广播" radio="true",湖北生活广播
-https://satellitepull.cnr.cn/live/wx32hubczshgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/湖北城市之声.png" group-title="综合广播" radio="true",湖北城市之声
-https://satellitepull.cnr.cn/live/wx32hubjtgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/湖北资讯广播.png" group-title="综合广播" radio="true",湖北资讯广播
-https://satellitepull.cnr.cn/live/wx32hubzxgb/playlist.m3u8
-#EXTINF:-1 tvg-id="1787" tvg-name="武汉新闻综合频道" tvg-logo="http://pic.qingting.fm/2015/0617/2015061718015278.jpg" group-title="综合广播" radio="true",武汉新闻广播
-http://stream.appwuhan.com/xwpdzb/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2018/0101/20180101120944.jpeg" group-title="综合广播" radio="true",武汉交通广播
-http://stream.appwuhan.com/jtpdzb/sd/live.m3u8
-#EXTINF:-1 tvg-id="1790" tvg-name="武汉经济频道" tvg-logo="https://pic.qingting.fm/2015/1125/20151125214015766.jpg" group-title="综合广播" radio="true",武汉经济广播
-http://stream.appwuhan.com/cjpdzb/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/河北文艺广播.png" group-title="综合广播" radio="true",河北文艺广播
-https://satellitepull.cnr.cn/live/wxhebwygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/河北综合广播.png" group-title="综合广播" radio="true",河北综合广播
-https://satellitepull.cnr.cn/live/wxhebzhgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/河北交通广播.png" group-title="综合广播" radio="true",河北交通广播
-https://satellitepull.cnr.cn/live/wxhebjtgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/河北故事广播.png" group-title="综合广播" radio="true",河北经济广播
-https://satellitepull.cnr.cn/live/wxhebjjgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/河北生活广播.png" group-title="综合广播" radio="true",河北生活广播
-https://satellitepull.cnr.cn/live/wxhebshgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/福建新闻广播.png" group-title="综合广播" radio="true",福建新闻广播
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/福建都市广播.png" group-title="综合广播" radio="true",福建都市广播·私家车987
-https://satellitepull.cnr.cn/live/wx32fjdndsgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/福建交通广播.png" group-title="综合广播" radio="true",福建交通广播
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/福建经济广播.png" group-title="综合广播" radio="true",福建经济广播
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/福建东南广播.png" group-title="综合广播" radio="true",福建东南广播
-https://satellitepull.cnr.cn/live/wx32fjdngb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/江西新闻广播.png" group-title="综合广播" radio="true",江西综合新闻广播
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/江西都市广播.png" group-title="综合广播" radio="true",江西都市广播
-https://satellitepull.cnr.cn/live/wx32jiangxdsgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/江西交通广播.png" group-title="综合广播" radio="true",江西信息交通广播
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/江西民生广播.png" group-title="综合广播" radio="true",江西民生广播
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/江西农村广播.png" group-title="综合广播" radio="true",江西农村广播·绿色985
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/山东综合广播.png" group-title="综合广播" radio="true",山东综合广播
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/山东文艺广播.png" group-title="综合广播" radio="true",山东文艺广播
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/山东交通广播.png" group-title="综合广播" radio="true",山东交通广播
-https://satellitepull.cnr.cn/live/wxsdjtgb/playlist.m3u8
-#EXTINF:-1 tvg-id="1428" tvg-name="山东体育" tvg-logo="https://live.fanmingming.com/radio/山东体育休闲广播.png" group-title="综合广播",山东体育休闲广播
-https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/山东经济广播.png" group-title="综合广播" radio="true",山东经济广播
-https://satellitepull.cnr.cn/live/wxsdjjgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/山东乡村广播.png" group-title="综合广播" radio="true",山东乡村广播
-https://satellitepull.cnr.cn/live/wxsdxcgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/绍兴之声.png" group-title="综合广播" radio="true",绍兴之声
-http://live.shaoxing.com.cn/audio/s10001-xw1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/绍兴交通广播.png" group-title="综合广播" radio="true",绍兴交通广播
-http://live.shaoxing.com.cn/audio/s10001-jt2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/陕西交通广播.png" group-title="综合广播" radio="true",陕西交通广播
-https://satellitepull.cnr.cn/live/wxsxxjtgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/陕西经济广播.png" group-title="综合广播" radio="true",陕西经济广播·896汽车调频
-https://satellitepull.cnr.cn/live/wxsxxjjgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/陕西都市广播.png" group-title="综合广播" radio="true",陕西都市广播·陕广新闻
-https://satellitepull.cnr.cn/live/wxsxxdsgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/陕西农村广播.png" group-title="综合广播" radio="true",陕西农村广播
-https://satellitepull.cnr.cn/live/wxsxxncgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/陕西戏曲广播.png" group-title="综合广播" radio="true",陕西戏曲广播
-https://satellitepull.cnr.cn/live/wxsxxxqgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/陕西新闻广播.png" group-title="综合广播" radio="true",陕西新闻广播
-https://satellitepull.cnr.cn/live/wxsxxxwgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/浙江之声.png" group-title="综合广播" radio="true",浙江之声
-https://satellitepull.cnr.cn/live/wxzjzs/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/浙江经济广播.png" group-title="综合广播" radio="true",浙江经济广播
-https://satellitepull.cnr.cn/live/wxzjjjgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/浙江交通之声.png" group-title="综合广播" radio="true",浙江交通之声
-https://satellitepull.cnr.cn/live/wxzjjtgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/浙江民生广播.png" group-title="综合广播" radio="true",浙江民生资讯广播
-https://satellitepull.cnr.cn/live/wxzjmsgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/浙江城市之声.png" group-title="综合广播" radio="true",浙江城市之声
-https://satellitepull.cnr.cn/live/wxzjcszs/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/浙江旅游之声.png" group-title="综合广播" radio="true",浙江旅游之声
-https://satellitepull.cnr.cn/live/wxzj1045/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/重庆文艺广播.png" group-title="综合广播" radio="true",重庆文艺广播
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/重庆经济广播.png" group-title="综合广播" radio="true",重庆经济广播
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/重庆之声.png" group-title="综合广播" radio="true",重庆之声
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/重庆都市广播.png" group-title="综合广播" radio="true",重庆都市广播·私家车938
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/重庆交通广播.png" group-title="综合广播" radio="true",重庆交通广播
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/宁波新闻综合广播.png" group-title="综合广播" radio="true",宁波新闻综合广播
-http://ihzlh.linker.cc/ihzlh/zjnb_ts04_920.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/宁波老少广播.png" group-title="综合广播" radio="true",宁波老少广播·阳光904
-http://ihzlh.linker.cc/ihzlh/zjnb_ts05_904.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/宁波交通广播.png" group-title="综合广播" radio="true",宁波交通广播
-http://ihzlh.linker.cc/ihzlh/zjnb_ts01_939.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/宁波经济广播.png" group-title="综合广播" radio="true",宁波经济广播
-http://ihzlh.linker.cc/ihzlh/zjnb_ts03_1029.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/广东新闻广播.png" group-title="综合广播" radio="true",广东新闻广播
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/广东股市广播.png" group-title="综合广播" radio="true",广东股市广播
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/广东文体广播.png" group-title="综合广播" radio="true",广东文体广播
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/广东城市之声.png" group-title="综合广播" radio="true",广东城市之声
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/广东南粤之声.png" group-title="综合广播" radio="true",广东南粤之声
-
-#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="https://live.fanmingming.com/radio/珠江经济广播.png" group-title="综合广播" radio="true",珠江经济台
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/南方生活广播.png" group-title="综合广播" radio="true",南方生活广播
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/羊城交通广播.png" group-title="综合广播" radio="true",羊城交通广播
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/深圳交通广播.png" group-title="综合广播" radio="true",深圳交通广播
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2021/0810/20210810093440.jpeg" group-title="综合广播" radio="true",惠州综合广播
-http://stream.hztvmg.com/gbtest2/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/海南新闻广播.png" group-title="综合广播" radio="true",海南新闻广播
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/海南交通广播.png" group-title="综合广播" radio="true",海南交通广播
-
-#EXTINF:-1 tvg-id="2055" tvg-name="SCTV3" tvg-logo="https://live.fanmingming.com/radio/四川经济广播.png" group-title="综合广播" radio="true",四川经济广播
-https://satellitepull.cnr.cn/live/wxscjjgb/playlist.m3u8
-#EXTINF:-1 tvg-id="2057" tvg-name="SCTV5" tvg-logo="https://live.fanmingming.com/radio/四川文艺广播.png" group-title="综合广播" radio="true",四川文艺广播
-https://satellitepull.cnr.cn/live/wxscwygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/四川旅游生活广播.png" group-title="综合广播" radio="true",四川旅游生活广播
-https://satellitepull.cnr.cn/live/wxsclyshgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/四川交通广播.png" group-title="综合广播" radio="true",四川交通广播
-https://satellitepull.cnr.cn/live/wxscjtgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/四川之声.png" group-title="综合广播" radio="true",四川综合广播四川之声
-https://satellitepull.cnr.cn/live/wxsczhgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/四川私家车广播.png" group-title="综合广播" radio="true",四川私家车广播
-https://satellitepull.cnr.cn/live/wxsc925/playlist.m3u8
-#EXTINF:-1 tvg-id="2065" tvg-name="CDTV2" tvg-logo="https://live.fanmingming.com/radio/成都经济广播.png" group-title="综合广播" radio="true",成都经济广播
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/成都交通文艺广播.png" group-title="综合广播" radio="true",成都交通文艺广播
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/成都故事广播.png" group-title="综合广播" radio="true",成都故事广播
-
-#EXTINF:-1 tvg-id="2064" tvg-name="CDTV1" tvg-logo="https://live.fanmingming.com/radio/成都新闻广播.png" group-title="综合广播" radio="true",成都新闻广播
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/贵州经济广播.png" group-title="综合广播" radio="true",贵州经济广播
-https://satellitepull.cnr.cn/live/wx32gzjjgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/贵州旅游广播.png" group-title="综合广播" radio="true",贵州旅游广播
-https://satellitepull.cnr.cn/live/wx32gzlygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/贵州故事广播.png" group-title="综合广播" radio="true",贵州故事广播
-https://satellitepull.cnr.cn/live/wx32gzgsgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/贵州综合广播.png" group-title="综合广播" radio="true",贵州综合广播
-https://satellitepull.cnr.cn/live/wx32gzwxwzhgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/吉林新闻综合广播.png" group-title="综合广播" radio="true",吉林新闻综合广播
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/吉林经济广播.png" group-title="综合广播" radio="true",吉林经济广播
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/吉林交通广播.png" group-title="综合广播" radio="true",吉林交通广播
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/吉林乡村广播.png" group-title="综合广播" radio="true",吉林乡村广播
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/延边新闻广播.png" group-title="综合广播" radio="true",延边新闻广播
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合广播" radio="true",延边文艺生活广播
-https://satellitepull.cnr.cn/live/wxybwyshgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/辽宁之声.png" group-title="综合广播" radio="true",辽宁之声
-https://satellitepull.cnr.cn/live/wxlnzhgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/辽宁乡村广播.png" group-title="综合广播" radio="true",辽宁乡村广播
-https://satellitepull.cnr.cn/live/wxlnxcgb/playlist.m3u8
-#EXTINF:-1 tvg-id="6008" tvg-name="辽宁经济" tvg-logo="https://live.fanmingming.com/radio/辽宁经济广播.png" group-title="综合广播" radio="true",辽宁经济广播
-https://satellitepull.cnr.cn/live/wxlnjjtb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/辽宁交通广播.png" group-title="综合广播" radio="true",辽宁交通广播
-https://satellitepull.cnr.cn/live/wxlnjtgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/福州左海之声.png" group-title="综合广播" radio="true",福州左海之声
-http://live.zohi.tv/audio/s10001-FM901/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/福州交通广播.png" group-title="综合广播" radio="true",福州交通之声
-http://live.zohi.tv/audio/s10001-FM876/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/福州新闻广播.png" group-title="综合广播" radio="true",福州新闻广播
-http://live.zohi.tv/audio/s10001-FM944/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合广播" radio="true",雅安综合广播
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合广播" radio="true",雅安交通旅游广播
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/徐州新闻综合广播.png" group-title="综合广播" radio="true",徐州新闻综合广播
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/黑龙江新闻广播.png" group-title="综合广播" radio="true",黑龙江新闻广播
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/2020/0405/20200405071154.jpeg" group-title="综合广播" radio="true",黑龙江交通广播
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/黑龙江都市女性广播.png" group-title="综合广播" radio="true",黑龙江都市女性广播
-https://satellitepull.cnr.cn/live/wx32hljnxgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/2020/0405/20200405071145.png" group-title="综合广播" radio="true",黑龙江都生活广播
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/黑龙江高校广播.png" group-title="综合广播" radio="true",黑龙江高校广播
-https://satellitepull.cnr.cn/live/wx32hljgxgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/黑龙江老年少儿广播.png" group-title="综合广播" radio="true",黑龙江老年少儿广播·爱家调频
-https://satellitepull.cnr.cn/live/wx32hljajgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/黑龙江乡村广播.png" group-title="综合广播" radio="true",黑龙江乡村广播
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合广播" radio="true",黑龙江朝鲜语广播
-https://satellitepull.cnr.cn/live/wx32hljcygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/2011/0926/20110926100350125.jpg" group-title="综合广播" radio="true",内蒙古农村牧区广播绿野之声
-https://satellitepull.cnr.cn/live/wx32nmglyzs/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pic.qingting.fm/2011/0926/20110926100610683.jpg" group-title="综合广播" radio="true",内蒙古新闻广播
-https://satellitepull.cnr.cn/live/wx32nmghyzhxwgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pic.qingting.fm/2015/0804/20150804105202673.jpg" group-title="综合广播" radio="true",内蒙古经济生活广播
-https://satellitepull.cnr.cn/live/wx32nmgjjgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pic.qingting.fm/2011/0926/20110926100411244.jpg" group-title="综合广播" radio="true",内蒙古评书曲艺广播
-https://satellitepull.cnr.cn/live/wx32nmgpsqy/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pic.qingting.fm/2015/0324/20150324134256614.jpg" group-title="综合广播" radio="true",内蒙古蒙语对外广播草原之声
-https://satellitepull.cnr.cn/live/wx32nmgdwgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pic.qingting.fm/2011/0926/20110926100552676.jpg" group-title="综合广播" radio="true",内蒙古蒙语新闻综合广播
-https://satellitepull.cnr.cn/live/wx32nmgmygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合广播" radio="true",锡林郭勒汉语广播
-https://satellitepull.cnr.cn/live/wx32nmgxlglhygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合广播" radio="true",锡林郭勒蒙语广播
-https://satellitepull.cnr.cn/live/wx32nmgxlglmygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合广播" radio="true",阿拉善汉语广播
-https://satellitepull.cnr.cn/live/wx32nmgalshygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合广播" radio="true",阿拉善蒙语广播
-https://satellitepull.cnr.cn/live/wx32nmgalsmygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合广播" radio="true",呼伦贝尔汉语广播
-https://satellitepull.cnr.cn/live/wx32nmghlbehygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合广播" radio="true",呼伦贝尔蒙语广播
-https://satellitepull.cnr.cn/live/wx32nmghlbemygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合广播" radio="true",新疆新闻广播
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合广播" radio="true",新疆交通广播
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合广播" radio="true",新疆私家车广播
-https://satellitepull.cnr.cn/live/wxxjsjcgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合广播" radio="true",新疆绿色广播
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合广播" radio="true",西藏都市生活广播
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合广播" radio="true",西藏对外交通广播
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合广播" radio="true",西藏汉语广播
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综合广播" radio="true",西藏藏语广播
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/甘肃交通广播.png" group-title="综合广播" radio="true",甘肃交通广播
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/甘肃农村广播.png" group-title="综合广播" radio="true",甘肃农村广播
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/甘肃经济广播.png" group-title="综合广播" radio="true",甘肃经济广播
-https://satellitepull.cnr.cn/live/wxgshhzs/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/甘肃新闻综合广播.png" group-title="综合广播" radio="true",甘肃新闻综合广播
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/广西教育广播.png" group-title="综合广播" radio="true",广西教育广播
-https://satellitepull.cnr.cn/live/wx32gbjyshgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/广西新闻广播.png" group-title="综合广播" radio="true",广西综合广播
-https://satellitepull.cnr.cn/live/wx32gxrmgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/广西北部湾之声.png" group-title="综合广播" radio="true",广西北部湾之声
-https://satellitepull.cnr.cn/live/wx32gxdwgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/广西交通广播.png" group-title="综合广播" radio="true",广西交通广播
-https://satellitepull.cnr.cn/live/wx32gxjtgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/云南新闻广播.png" group-title="综合广播" radio="true",云南新闻广播
-https://satellitepull.cnr.cn/live/wxynxwgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/云南经济广播.png" group-title="综合广播" radio="true",云南经济广播·私家车电台
-https://satellitepull.cnr.cn/live/wxynjjgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/云南交通之声.png" group-title="综合广播" radio="true",云南交通之声
-https://satellitepull.cnr.cn/live/wxynjtgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/云南旅游广播.png" group-title="综合广播" radio="true",云南旅游广播·香格里拉之声
-https://satellitepull.cnr.cn/live/wxxgllzs/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/云南民族广播.png" group-title="综合广播" radio="true",云南民族广播
-https://satellitepull.cnr.cn/live/wxynmzgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/云南国际广播.png" group-title="综合广播" radio="true",云南国际广播
-https://satellitepull.cnr.cn/live/wxynsegb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/云南教育广播.png" group-title="综合广播" radio="true",云南教育广播·知道分子频道
-https://satellitepull.cnr.cn/live/wxynjygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/宁夏经济广播.png" group-title="综合广播" radio="true",宁夏经济广播
-https://satellitepull.cnr.cn/live/wxnxjjgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/宁夏新闻广播.png" group-title="综合广播" radio="true",宁夏新闻广播
-https://satellitepull.cnr.cn/live/wxnxxwgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/宁夏旅游广播.png" group-title="综合广播" radio="true",宁夏旅游广播
-https://satellitepull.cnr.cn/live/wxnxdsgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/青海新闻综合广播.png" group-title="综合广播" radio="true",青海新闻综合广播
-https://satellitepull.cnr.cn/live/wx32qhwxzhgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/青海经济广播.png" group-title="综合广播" radio="true",青海经济广播
-https://satellitepull.cnr.cn/live/wx32qhjjgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/世界华声.png" group-title="综合广播" radio="true",世界华声
-http://sk.cri.cn/hxfh.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/益阳之声.png" group-title="综合广播" radio="true",益阳之声
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/益阳交通频道.png" group-title="综合广播" radio="true",益阳交通频道·汽车881
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/开州之声.png" group-title="综合广播" radio="true",开州之声
-http://183.64.174.171:10124/tlgb.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/山西健康之声.png" group-title="综合广播" radio="true",山西健康之声广播
-rtmp://radiolive.sxrtv.com/live/jiankang
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/山西农村广播.png" group-title="综合广播" radio="true",山西农村广播
-rtmp://radiolive.sxrtv.com/live/nongcun
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/山西文艺广播.png" group-title="综合广播" radio="true",山西文艺广播·好听1015
-rtmp://radiolive.sxrtv.com/live/wenyi
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/山西交通广播.png" group-title="综合广播" radio="true",山西交通广播
-rtmp://radiolive.sxrtv.com/live/jiaotong
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/山西经济广播.png" group-title="综合广播" radio="true",山西经济广播
-rtmp://radiolive.sxrtv.com/live/jingji
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/山西综合广播.png" group-title="综合广播" radio="true",山西综合广播
-rtmp://radiolive.sxrtv.com/live/zonghe
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/山西故事广播.png" group-title="综合广播" radio="true",山西故事广播
-rtmp://radiolive.sxrtv.com/live/gushi
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/宜昌广播.png" group-title="综合广播" radio="true",宜昌新闻综合广播
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/宜昌广播.png" group-title="综合广播" radio="true",宜昌交通广播
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/欢乐调频.png" group-title="综合广播" radio="true",欢乐调频
-http://starfish.bj.aliyun.007.qingting.fm:8000/huanletiaopin
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/房山电台.png" group-title="综合广播" radio="true",房山电台
-http://live.funhillrm.com/3/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/cnr维吾尔语广播.png" group-title="综合广播" radio="true",维吾尔语广播
-http://ngcdn013.cnr.cn/live/wygb/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/cnr藏语广播.png" group-title="综合广播" radio="true",藏语广播
-http://ngcdn012.cnr.cn/live/zygb/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/cnr哈萨克语广播.png" group-title="综合广播" radio="true",哈萨克语广播
-http://ngcdn025.cnr.cn/live/hygb/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/Lz9bbsba4c.png" group-title="境外广播" radio="true",BBC World Service
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio=320000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/npr.png" group-title="境外广播" radio="true",n p r | News and Culture
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s249264/images/logod.png?t=1" group-title="境外广播" radio="true",AP
-
-#EXTINF:-1 tvg-id="717" tvg-name="FoxNews" tvg-logo="https://cdn-profiles.tunein.com/s20431/images/logod.jpg?t=159405" group-title="境外广播" radio="true",FOX News Radio
-
-#EXTINF:-1 tvg-id="6023" tvg-name="CNN" tvg-logo="https://cdn-profiles.tunein.com/s20407/images/logog.png?t=1" group-title="境外广播" radio="true",CNN
-http://tunein.streamguys1.com/cnn-new
-#EXTINF:-1 tvg-id="6023" tvg-name="CNN" tvg-logo="https://cdn-profiles.tunein.com/s292162/images/logod.png?t=636314" group-title="境外广播" radio="true",CNN International
-http://tunein.ord.streamguys1.com/secure-CNNi
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s108977d.png" group-title="境外广播" radio="true",Al Jazeera
-http://tunein.ord.streamguys1.com/secure-aljazeera-english
-#EXTINF:-1 tvg-id="688" tvg-name="CNBCHongKong" tvg-logo="https://cdn-profiles.tunein.com/s110052/images/logog.png" group-title="境外广播" radio="true",CNBC
-http://tunein.streamguys1.com/cnbc
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s297990/images/logog.jpg?t=1" group-title="境外广播" radio="true",MSNBC
-http://tunein.ord.streamguys1.com/secure-msnbc-premium
-#EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="https://cdn-profiles.tunein.com/s47135/images/logod.png" group-title="境外广播" radio="true",Bloomberg TV
-http://tunein.streamguys1.com/BloombergTV
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7VSzOFJjNvZYpojAS9wDVIzH1JtQiDvKl-ZjmXa6FWKarDO7bzF4xA2BI8_ogKFejWwU&usqp=CAU" group-title="境外广播" radio="true",ESPN
-http://tunein.streamguys1.com/ESPNTV
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s25876g.png" group-title="境外广播" radio="true",ESPN Radio
-http://tunein.streamguys1.com/ESPNRadio
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/voa.png" group-title="境外广播" radio="true",VOA Global English
-https://voaaudio-lh.akamaihd.net/i/PACKVOA161_352R@825053/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/voa.png" group-title="境外广播" radio="true",VOA Newscasts
-https://voaaudio-lh.akamaihd.net/i/PACKVOA155_233L@824354/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/bbc1.png" group-title="境外广播" radio="true",BBC Radio 1
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio=320000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/bbc1xtra.png" group-title="境外广播" radio="true",BBC Radio 1Xtra
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio=320000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/bbc1dance.png" group-title="境外广播" radio="true",BBC Radio 1 Dance
-https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one_dance/bbc_radio_one_dance.isml/bbc_radio_one_dance-audio=320000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/bbc1relax.png" group-title="境外广播" radio="true",BBC Radio 1 relax
-https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one_relax/bbc_radio_one_relax.isml/bbc_radio_one_relax-audio=320000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/bbc2.png" group-title="境外广播" radio="true",BBC Radio 2
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio=320000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/bbc3.png" group-title="境外广播" radio="true",BBC Radio 3
-https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio=320000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/bbc4.png" group-title="境外广播" radio="true",BBC Radio 4
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio=320000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/bbc4extra.png" group-title="境外广播" radio="true",BBC Radio 4 Extra
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio=320000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/bbc5.png" group-title="境外广播" radio="true",BBC Radio 5 live
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio=320000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/bbc6.png" group-title="境外广播" radio="true",BBC Radio 6
-https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio=320000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/popradio.png" group-title="境外广播" radio="true",POP Radio 台北流行广播电台
-http://149.129.100.78:8000/popradio
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/popradio.png" group-title="境外广播" radio="true",POP Radio 好听广播电台
-http://149.129.100.78:8000/pop907
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/aline.png" group-title="境外广播" radio="true",A-line Radio 网路音乐台
-http://radio.apple-line.com:987/radio-data/alinePlayer.php
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/hitfm.png" group-title="境外广播" radio="true",HitFM联播网|台北之音
-http://149.129.100.78:8000/hitfm
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/全国广播.png" group-title="境外广播" radio="true",M-Radio全国广播
-http://stream.rcs.revma.com/044q61ha7a0uv/hls.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ROC_Police_Broadcasting_Service_Seal.svg/440px-ROC_Police_Broadcasting_Service_Seal.svg.png" group-title="境外广播" radio="true",全国治安交通网
-http://stream.pbs.gov.tw:1935/live/mp3:PBS/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/cityfm.png" group-title="境外广播" radio="true",CityFM|城市广播
-http://fm929.cityfm.tw:8080/929.mp3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/cityfm.png" group-title="境外广播" radio="true",CityFM|台北健康
-http://fm901.cityfm.tw:8080/901.mp3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/cityfm.png" group-title="境外广播" radio="true",CityFM|台南之音
-http://fm971.cityfm.tw:8080/971.mp3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/cityfm.png" group-title="境外广播" radio="true",CityFM|大苗栗广播
-http://fm983.cityfm.tw:8080/983.mp3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/hiradio.png" group-title="境外广播" radio="true",hi radio
-http://stream.rcs.revma.com/m5vcf26np7zuv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.loveradio889.com.tw/ecms102077/store/AdImage/最爱正义.jpg" group-title="境外广播" radio="true",正义电台
-http://211.20.119.103:8081
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.loveradio889.com.tw/ecms102077/store/AdImage/sunnyradio.jpg" group-title="境外广播" radio="true",太阳电台
-http://211.20.119.102:8081
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.aifm.net.my/images/xlogo-aifmradioonlinemalaysia.png.pagespeed.ic.fqnHxUtFW5.png" group-title="境外广播" radio="true",Ai FM
-https://klfmmobile.secureswiftcontent.com/rtm-ch020/rtm-ch020/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/台北广播电台.png" group-title="境外广播" radio="true",台北广播电台FM93.1
-https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/台北广播电台.png" group-title="境外广播" radio="true",台北广播电台AM1134
-https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/am/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外广播" radio="true",飞特电台
-https://phate.io/listen.ogg
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/中广音乐网.png" group-title="境外广播" radio="true",中广音乐网
-http://stream.rcs.revma.com/ks4vsmg3qtzuv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/中广新闻网.png" group-title="境外广播" radio="true",中广新闻网
-http://stream.rcs.revma.com/78fm9wyy2tzuv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/中广流行网.png" group-title="境外广播" radio="true",中广流行网
-http://stream.rcs.revma.com/aw9uqyxy2tzuv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/news98新闻台.png" group-title="境外广播" radio="true",News98新闻台
-http://stream.rcs.revma.com/55tyxsy4qtzuv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/飞碟电台.png" group-title="境外广播" radio="true",飞碟电台
-http://stream.rcs.revma.com/em90w4aeewzuv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/澳门电台.png" group-title="境外广播" radio="true",澳门电台
-https://live4.tdm.com.mo/live/_definst_/rch2.live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/宝岛联播网.png" group-title="境外广播" radio="true",宝岛联播网|宝岛新声
-http://stream.superfm99-1.com.tw:8555
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/大千电台.png" group-title="境外广播" radio="true",宝岛联播网|大千电台
-http://stream.superfm99-1.com.tw:8554
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/rti.png" group-title="境外广播" radio="true",RTI国语
-https://www.soundvideostar.com/live/_definst_/rti3/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/rti.png" group-title="境外广播" radio="true",RTI音乐
-https://www.soundvideostar.com/live/_definst_/rti4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/国立教育电台.png" group-title="境外广播" radio="true",国立教育电台
-http://wowza.ner.gov.tw/live/_definst_/1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/台湾古典音乐台.png" group-title="境外广播" radio="true",台湾古典音乐台
-http://59.120.88.155:8000/live.mp3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/kissradio.png" group-title="境外广播" radio="true",Kiss Radio
-http://api.kiss.com.tw/test/hichannel2.php?api=2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/capital958.png" group-title="境外广播" radio="true",CAPITAL 958
-https://19183.live.streamtheworld.com/CAPITAL958FM_PREM.aac
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/988.png" group-title="境外广播" radio="true",988友声有色
-http://23023.live.streamtheworld.com/988_FMAAC.aac
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/my.png" group-title="境外广播" radio="true",MY
-https://astro1.rastream.com/myfm
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/onefm.png" group-title="境外广播" radio="true",one FM
-https://mediaprima.rastream.com/mediaprima-onefm
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/好fm.png" group-title="境外广播" radio="true",好FM
-https://22283.live.streamtheworld.com/HAO_963AAC.aac
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/yes933.png" group-title="境外广播" radio="true",YES 933
-https://22393.live.streamtheworld.com/YES933_PREM.aac
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/love972.png" group-title="境外广播" radio="true",LOVE 972
-https://14033.live.streamtheworld.com/LOVE972FM_PREM.aac
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/ufm1003.png" group-title="境外广播" radio="true",UFM 1003
-https://22283.live.streamtheworld.com/UFM_1003AAC.aac
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RFI_logo_2013.svg/1200px-RFI_logo_2013.svg.png" group-title="境外广播" radio="true",法国国际广播电台
-https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Sputnik_logo.svg/220px-Sputnik_logo.svg.png" group-title="境外广播" radio="true",俄罗斯卫星通讯社
-http://icecast-ruvr.cdnvideo.ru/rian.voicechi
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/美国之音.png" group-title="境外广播" radio="true",美国之音
-https://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/自由亚洲电台.png" group-title="境外广播" radio="true",自由亚洲电台
-http://rfimonde-lh.akamaihd.net/i/rfimonde_1@412456/index_128_a-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.melisten.sg/api/blob/10711300/3600973250882fa11b0b01b71a9d6e5d/cna938-logoImage.png" group-title="境外广播" radio="true",CNA 938
-https://14033.live.streamtheworld.com/938NOW_PREM.aac
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.kcrw.com/music/shows/eclectic24/@@images/square_image/giant-square" group-title="境外广播" radio="true",Eclectic24
-https://kcrw.streamguys1.com/kcrw_192k_mp3_on_air
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i1.wp.com/vocalo.org/wp-content/uploads/2017/01/black_teal_square.png?resize=170%2C170&ssl=1" group-title="境外广播" radio="true",VOCALO
-https://stream.wbez.org/vocalolinear
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/kShwWmQjbq.jpg" group-title="境外广播" radio="true",n p r | WUNC
-http://216.246.39.189/wunc-source
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/74uqeZnXmV.png" group-title="境外广播" radio="true",n p r | KJZZ
-http://kjzz.streamguys1.com/kjzz_aac_high
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner-radio.com/media/news/2017/01/11/4tq6n6zqwy.png" group-title="境外广播" radio="true",n p r | WLRN
-https://hls.wlrn.mobi/live/WLRNFMAAC/live/WLRNFMAAC256/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s27410/images/logod.png" group-title="境外广播" radio="true",n p r | WBEZ
-http://stream.wbez.org/wbezlinear
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://player.streamguys.com/hpm-news/sgplayer3/include/image/hpm_listenlive_app_news88-7.png" group-title="境外广播" radio="true",n p r | HPM News
-http://stream.houstonpublicmedia.org/news-aac-256
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s34350/images/logod.png" group-title="境外广播" radio="true",n p r | MPR News
-http://nis.stream.publicradio.org/nis.mp3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.npr.org/images/stations/nprone_logos/kcrw_fm.png" group-title="境外广播" radio="true",n p r | KCRW News
-http://kcrw.streamguys1.com/kcrw_192k_mp3_news
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/8FHMcwz5yR.png" group-title="境外广播" radio="true",n p r | WOSU
-http://wosu.streamguys1.com/NPR_256
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s34804g.png" group-title="境外广播" radio="true",n p r | KQED
-http://hls.kqed.org/kqed/256/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s27111/images/logog.png" group-title="境外广播" radio="true",n p r | WAMU
-http://hls-1.wamu.org/itunes/256/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/wqMpuP27HE.png" group-title="境外广播" radio="true",n p r | WBUR
-http://wowza-stream.wbur.org/hls/smil:wbur.smil/hls/wbur256/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s34633/images/logog.jpg?t=154843" group-title="境外广播" radio="true",n p r | KPBS
-http://kpbs-wowza.streamguys1.com/live/smil:kpbs.smil/live/kpbs256kaac.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s35962/images/logod.png?t=636270" group-title="境外广播" radio="true",n p r | KUT
-http://kut-hls.streamguys1.com/kut1/256/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dbs.radioline.fr/pictures/radio_18d695eec54b624bc60502d504581c80/logo200.jpg?size=600" group-title="境外广播" radio="true",n p r | CPR
-https://stream2.cprnetwork.org/2198_256.aac/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s124949/images/logog.png?t=161850" group-title="境外广播" radio="true",n p r | KWMU
-http://kwmu-flash.streamguys1.com/live/smil:kwmu1.smil/live/kwmu1-256k.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/rfep7y5qfkrj.png" group-title="境外广播" radio="true",n p r | GPB
-http://gpb-hls.streamguys1.com/itunes256/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/hrvzkrkuzlwl.webp" group-title="境外广播" radio="true",n p r | WUWM
-http://wuwm.streamguys1.com/live
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/7GLKE4tq2Y.jpg" group-title="境外广播" radio="true",n p r | NHPR
-http://205.234.238.46/nhpr-256-source.aac
-#EXTINF:-1 tvg-id="6141" tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" group-title="境外广播" radio="true",阿里郎电台(视频)
-https://amdlive-ch03-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="6141" tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" group-title="境外广播" radio="true",阿里郎电台(音频)
-http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/arirang_3ch_audio/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/音乐之声.png" group-title="音乐广播" radio="true",CNR音乐之声
-http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/经典音乐广播.png" group-title="音乐广播" radio="true",CNR经典音乐广播
-http://ngcdn004.cnr.cn/live/dszs/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/hitfm联播网.png" group-title="音乐广播" radio="true",CRI HIT FM (北京)
-https://satellitepull.cnr.cn/live/wxgjlxyy/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/hitfm.png" group-title="音乐广播" radio="true",CRI HIT FM (广州)
-https://satellitepull.cnr.cn/live/wxhitfm/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/北京经典969.png" group-title="音乐广播" radio="true",北京经典969
-http://live.funhillrm.com/4/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/2019/0830/20190830075424.jpeg" group-title="音乐广播" radio="true",旅游之声
-http://starfish.bj.aliyun.007.qingting.fm:8000/fm98.7lvyouzhisheng
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/陕西音乐广播.png" group-title="音乐广播" radio="true",陕西音乐广播
-https://satellitepull.cnr.cn/live/wxsxxyygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/好听1055.png" group-title="音乐广播" radio="true",陕西青少广播·好听1055
-https://satellitepull.cnr.cn/live/wxsxxqcgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/苏州音乐广播.png" group-title="音乐广播" radio="true",苏州都市音乐广播
-http://audio-live.radio.cn/live/szyy1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/山东音乐广播.png" group-title="音乐广播" radio="true",山东音乐广播
-https://satellitepull.cnr.cn/live/wxsdyygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/山东经典音乐广播.png" group-title="音乐广播" radio="true",山东经典音乐广播
-https://satellitepull.cnr.cn/live/wxsdshxxgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/安徽音乐广播.png" group-title="音乐广播" radio="true",安徽音乐广播
-https://satellitepull.cnr.cn/live/wxahyygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/宁波音乐广播.png" group-title="音乐广播" radio="true",宁波音乐广播
-http://ihzlh.linker.cc/ihzlh/zjnb_ts02_986.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pic.qingting.fm/2021/0809/20210809021518.png" group-title="音乐广播" radio="true",湖南音乐之声·芒果音乐台
-http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b858279c1c86650172b9913ea4af2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/摩登音乐台.png" group-title="音乐广播" radio="true",湖南文艺广播·摩登音乐台
-https://satellitepull.cnr.cn/live/wx32hunwygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/惠州音乐广播.JPG" group-title="音乐广播" radio="true",惠州音乐广播
-http://stream.hztvmg.com/test17/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/宜昌广播.png" group-title="音乐广播" radio="true",宜昌音乐生活广播
-http://playfmaliyun.3xgd.com/fm/qct.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/江西旅游广播.png" group-title="音乐广播" radio="true",江西旅游广播iFM97.4
-http://live02.jxtvcn.com.cn/live-jxtvcn/jxtv_pyhgb_aac.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/江西故事广播.png" group-title="音乐广播" radio="true",江西故事广播·潮台969
-http://live02.jxtvcn.com.cn/live-jxtvcn/jxtv_myfm969_aac.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/山西音乐广播.png" group-title="音乐广播" radio="true",山西音乐广播
-https://radiolive.sxrtv.com/live/yinyue/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/内蒙古音乐之声.png" group-title="音乐广播" radio="true",内蒙古音乐之声
-https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/湖北经典音乐广播.png" group-title="音乐广播" radio="true",湖北经典音乐广播
-https://satellitepull.cnr.cn/live/wx32hubyygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/甘肃青春调频.png" group-title="音乐广播" radio="true",甘肃青春调频
-https://satellitepull.cnr.cn/live/wxgsqcgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/甘肃都市调频.png" group-title="音乐广播" radio="true",甘肃都市调频
-https://satellitepull.cnr.cn/live/wxgsdstb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2015/0225/20150225111148873.png" group-title="音乐广播" radio="true",广西音乐广播
-https://satellitepull.cnr.cn/live/wx32gxwygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/广西女主播.png" group-title="音乐广播" radio="true",广西经济广播·女主播电台
-https://satellitepull.cnr.cn/live/wx32gxjjgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/云南音乐广播.png" group-title="音乐广播" radio="true",云南音乐广播
-https://satellitepull.cnr.cn/live/wxynyygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/四川城市之音.png" group-title="音乐广播" radio="true",四川城市之音
-https://satellitepull.cnr.cn/live/wxsccszs/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/四川岷江音乐.png" group-title="音乐广播" radio="true",四川岷江音乐
-https://satellitepull.cnr.cn/live/wxscmjyyt/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/厦门音乐广播.png" group-title="音乐广播" radio="true",厦门音乐广播
-http://live1.kxm.xmtv.cn/aac_xmyy/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/楚天音乐广播.png" group-title="音乐广播" radio="true",楚天音乐广播
-https://satellitepull.cnr.cn/live/wx32hubctyygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/江苏音乐广播.png" group-title="音乐广播" radio="true",江苏音乐广播
-https://satellitepull.cnr.cn/live/wx32jsyygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/江苏经典流行音乐广播.png" group-title="音乐广播" radio="true",江苏经典流行音乐广播
-https://satellitepull.cnr.cn/live/wx32jsjdlxyy/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/动听968.png" group-title="音乐广播" radio="true",浙江音乐调频·动听968
-https://satellitepull.cnr.cn/live/wxzj968/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/河北音乐广播.png" group-title="音乐广播" radio="true",河北音乐广播
-https://satellitepull.cnr.cn/live/wxhebyygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/广东音乐之声.png" group-title="音乐广播" radio="true",广东音乐之声
-https://satellitepull.cnr.cn/live/wxgdyyzs/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/深圳飞扬971.png" group-title="音乐广播" radio="true",深圳飞扬971
-https://satellitepull.cnr.cn/live/wxszfy971/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/深圳生活942.png" group-title="音乐广播" radio="true",深圳生活942
-https://satellitepull.cnr.cn/live/wxszsjcgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/海南音乐广播.png" group-title="音乐广播" radio="true",海南音乐广播
-https://satellitepull.cnr.cn/live/wxhainyygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/贵州音乐广播.png" group-title="音乐广播" radio="true",贵州音乐广播
-https://satellitepull.cnr.cn/live/wx32gzyygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/贵州都市广播.png" group-title="音乐广播" radio="true",贵州都市广播
-https://satellitepull.cnr.cn/live/wx32gzqcgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/宁夏音乐广播.png" group-title="音乐广播" radio="true",宁夏音乐广播
-https://satellitepull.cnr.cn/live/wxnxyygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/重庆音乐广播.png" group-title="音乐广播" radio="true",重庆音乐广播
-https://satellitepull.cnr.cn/live/wxcqyygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/江西音乐广播.png" group-title="音乐广播" radio="true",江西音乐广播
-https://satellitepull.cnr.cn/live/wx32jiangxyygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/黑龙江音乐广播.png" group-title="音乐广播" radio="true",黑龙江音乐广播
-https://satellitepull.cnr.cn/live/wx32hljyygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/福建汽车音乐广播.png" group-title="音乐广播" radio="true",福建汽车音乐广播
-https://satellitepull.cnr.cn/live/wx32fjdnyygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/哈尔滨古典音乐广播.png" group-title="音乐广播" radio="true",哈尔滨古典音乐广播
-http://pull.hrbtv.net/tv/12.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/福州音乐广播.png" group-title="音乐广播" radio="true",福州音乐广播
-http://live.zohi.tv/audio/s10001-FM893/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/成都经典946.png" group-title="音乐广播" radio="true",成都文化休闲广播·radio946
-http://149.129.100.78/cdgb.php?id=433-20
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/海口音乐广播.png" group-title="音乐广播" radio="true",WHIZ Radio 海口音乐广播
-http://starfish.sz.aliyun.005.qingting.fm:8000/haikouSIMULRADIO
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="h" group-title="音乐广播" radio="true",青岛音体广播
-http://video11.qtv.com.cn/zhiboytgb-sd/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="h" group-title="音乐广播" radio="true",青岛摩登音乐调频
-http://video11.qtv.com.cn/zhibo886/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/辽宁经典音乐广播.png" group-title="音乐广播" radio="true",辽宁经典音乐广播
-https://satellitepull.cnr.cn/live/wxlnwygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/青海交通音乐广播.png" group-title="音乐广播" radio="true",青海交通音乐广播
-https://satellitepull.cnr.cn/live/wx32qhjtyygb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/北京音乐广播.png" group-title="音乐广播" radio="true",北京音乐广播
-http://audiolive2.rbc.cn:1935/live/fm974/96K/tzwj_video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2017/0501/20170501063612.jpeg" group-title="音乐广播" radio="true",武汉音乐广播
-http://stream.appwuhan.com/yypdzb/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2015/0521/20150521164427620.png" group-title="音乐广播" radio="true",武汉青少广播·M-radio
-http://stream.appwuhan.com/sepdzb/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/乐动1056.png" group-title="音乐广播" radio="true",Heart FM 乐动1056
-http://starfish.bj.aliyun.006.qingting.fm:8000/shenyangjingdianyinle
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/长沙城市之声.png" group-title="音乐广播" radio="true",长沙城市之声
-http://115.238.238.218/zhcs_radio/cszs1017__redirect__20573.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/长沙音乐广播.png" group-title="音乐广播" radio="true",长沙音乐广播
-http://222.186.61.82/zhcs_radio/jjgb886__redirect__20573.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/长沙交通广播.png" group-title="音乐广播" radio="true",长沙交通广播
-http://115.238.238.218/zhcs_radio/jtgb1061__redirect__20573.m3u8
+海外看資源                 https://haiwaikan.com/api.php/provide/vod/
+紅牛資源                 https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/
+量子資源                 https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/
+開放電影                 https://vod-demo.onrender.com/pubdovod.php
+优质资源库                 https://api.1080zyku.com/inc/api.php/provide/vod/
+39影視                 https://www.39kan.com/api.php/provide/vod/
+天堂资源            http://vipmv.cc/api.php/provide/vod/
+乐活影视                 https://lehootv.com/api.php/provide/vod/
+唐人街                 https://www.tangrenjie.tv/api.php/provide/vod/
+酷点资源                 https://api.kuapi.cc/api.php/provide/vod/
+卧龙资源                 https://collect.wolongzyw.com/api.php/provide/vod/      
+酷点资源                 https://kudian10.com/api.php/provide/vod/
+唐人街                 https://www.tangrenjie.tv/api.php/provide/vod/at/xm
+森林资源                 https://slapibf.com/api.php/provide/vod/
+影库资源网                 https://api.ykapi.net/api.php/provide/vod/
+快车资源                 https://caiji.kczyapi.com/api.php/provide/vod/from/kcm3u8/      
+探探资源                 https://apittzy.com/api.php/provide/vod/
+閃電資源                 https://sdzyapi.com/api.php/provide/vod/from/sdm3u8/
+金鹰资源                 https://jyzyapi.com/provide/vod/from/jinyingm3u8/
+光速资源                 https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/
+奥斯卡资源网                 https://aosikazy.com/api.php/provide/vod/
+老鸭资源采集                 https://api.apilyzy.com/api.php/provide/vod/
+U酷资源                 https://api.ukuapi.com/api.php/provide/vod/
+北斗星资源                 https://m3u8.bdxzyapi.com/api.php/provide/vod/
+樱花资源网                 https://m3u8.apiyhzy.com/api.php/provide/vod/
+酷点资源                 https://api.kuapi.cc/api.php/provide/vod/
+闪电资源            http://sdzyapi.com/api.php/provide/vod/
+飞速资源                 https://www.feisuzy.com/api.php/provide/vod/
+快播资源            http://www.kuaibozy.com/api.php/provide/vod/
+百度资源                 https://api.apibdzy.com/api.php/provide/vod/
+艾旦影视                 https://lovedan.net/api.php/provide/vod/
+飘花电影            http://www.zzrhgg.com/api.php/provide/vod/
+网民电影                 https://www.prinevillesda.org/api.php/provide/vod/
+丝袜资源                 https://siwazyw.cc/api.php/provide/vod/
+天空資源                 https://m3u8.tiankongapi.com/api.php/provide/vod/from/tkm3u8/
+探探        https://apittzy.com/api.php/provide/vod/
+皇冠        https://hghhh.com/api.php/provide/vod/
+忆梦   http://anltv.cn/api.php/provide/vod/
+M3U8TV        https://www.zycaiji.net:7788/api.php/provide/vod/
+飘零影院        https://p2100.net/api.php/provide/vod/
+新马影视        https://movie.gsl99.com/api.php/provide/vod/
+爱坤资源        https://ikunzyapi.com/api.php/provide/vod/
+乐活影视        https://lehootv.com/api.php/provide/vod/
+阿里影视   http://aliys.cn:90/api.php/provide/vod/
+88dav        https://www.888dav.com/api.php/provide/vod/
+水蜜桃   http://51smt4.xyz/api.php/provide/vod/
+丝袜        https://siwazyw.cc/api.php/provide/vod/
+可可资源        https://caiji.kekezyapi.com/api.php/provide/vod/
+酷点资源        https://kudianzy.com/api.php/provide/vod/
+天翼资源        https://www.911ysw.top/tianyi.php/provide/vod/
+FOX资源        https://api.foxzyapi.com/api.php/provide/vod/
+88资源   http://99zy.pw/api.php/provide/vod/at/json/
+鱼乐资源        https://api.ylzy1.com/api.php/provide/vod/
+飘花电影   http://www.zzrhgg.com/api.php/provide/vod/
+蜜蜂影视        https://www.beeyao.com/api.php/provide/vod/
+色南国        https://api.sexnguon.com/api.php/provide/vod/
+大地        https://dadiapi.com/api.php/provide/vod/at/json
+色窝        https://sewozyapi.com/api.php/provide/vod/
+243影视        https://www.knyu.net/api.php/provide/vod/
+KK写真        https://kkzy.me/api.php/provide/vod/
+新浪资源   http://api.xinlangapi.com/xinlangapi.php/provide/vod/
+国色        https://api.guosezy.com/api.php/provide/vod/
+非凡资源   http://cj.ffzyapi.com/api.php/provide/vod/
+U酷资源        https://api.ukuapi.com/api.php/provide/vod/
+乐博资源        https://lebcj.com/api.php/provide/vod/
+爱酷影视        https://cj1.apiabzy.com/api.php/provide/vod/
+热巴   http://reba.aishunxs.com/api.php/provide/vod/
+酷豆        https://api.kdapi.info/api.php/provide/vod/
+花椒        https://apihjzy.com/api.php/provide/vod/at/json/
+金莲        https://111kkkkk.com/api.php/provide/vod/
+91md        https://91md.me/api.php/provide/vod/from/mdm3u8/
+狼友        https://www.langyouzy.com/api.php/provide/vod/
+淫窝        https://api.yinwoapi.com/api.php/provide/vod/
+99资源   http://99zy.pw/api.php/provide/vod/at/json/
+映迷        https://www.inmi.app/api.php/provide/vod/
+可可资源        https://caiji.kekezyapi.com/api.php/provide/vod/
+极速资源        https://jszy.tv/api.php/provide/vod/
+虎牙资源        https://www.huyaapi.com/api.php/provide/vod/
+淫窝        https://api.yinwoapi.com/api.php/provide/vod/
+速博资源        https://subocaiji.com/api.php/provide/vod/
+乐博资源        https://lebcj.com/api.php/provide/vod/
+新浪资源   http://api.xinlangapi.com/xinlangapi.php/provide/vod/
+FOX资源        https://api.foxzyapi.com/api.php/provide/vod/
+闪电资源   http://sdzyapi.com/api.php/provide/vod/
+小猫咪2   http://zy.rryy.tv/api.php/provide/vod/
+ASMR资源http://www.asmr19.in/api.php/provide/vod/
+CK资源     https://ckzy.me/api.php/provide/vod/
+CK资源2http://www.feifei67.com/api.php/provide/vod/
+JAV名优http://mygzycj.com/api.php
+乐播资源     https://lbapi9.com/api.php/provide/vod/at/json
+色南国资源     https://api.sexnguon.com/api.php/provide/vod/
+狼友资源     https://www.langyouzy.com/api.php/provide/vod/
+皇冠资源     https://hghhh.com/api.php/provide/vod/
+AIvinhttp://lbapiby.com/api.php/provide/vod/at/json
+色猫资源     https://api.maozyapi.com/inc/apijson_vod.php
+葡萄资源     https://api.putaozy.net/inc/apijson_vod.php
+淫窝资源     https://api.yinwoapi.com/api.php/provide/vod/
+大MM资源     https://www.dmmapi.com/home/cjapi/asd2c7/mc10/vod/json
+99资源http://99zy.pw/api.php/provide/vod/
+91麻豆     https://91md.me/api.php/provide/vod/
+酷豆资源     https://kudouzy.com/api.php/provide/vod/
+酷豆资源2     https://api.kdapi.info/api.php/provide/vod/
+奶茶资源     https://caiji.naichaapi.com/inc/apijson_vod.php
+爱播资源     https://cj.apiabzy.com/api.php/provide/vod/
+美少女资源     https://www.msnii.com/api/json.php
+淫水机资源     https://www.xrbsp.com/api/json.php
+香奶儿资源     https://www.gdlsp.com/api/json.php
+白嫖资源     https://www.kxgav.com/api/json.php
+大地资源     https://dadiapi.com/api.php
+环亚资源http://wmcj8.com/inc/sapi.php
+黄AV资源     https://www.pgxdy.com/api/json.php
+色色资源http://secj8.com/inc/sapi.php
+玖玖资源http://99zywcj.com/inc/sapi.php
+狼少年http://cjmygzy.com/inc/sapi.php
+佳丽资源http://www.jializyzapi.com/api.php/provide/vod/
+番号资源http://fhapi9.com/api.php/provide/vod/
+鲨鱼资源     https://shayuapi.com/api.php/provide/vod/
+哥哥妹妹http://www.ggmmzy.com:9999/inc/json
+丝袜资源     https://siwazyw.cc/api.php/provide/vod/at/json/
+芒果资源     https://mgzyz1.com/api.php/provide/vod/
+KK写真资源     https://kkzy.me/api.php/provide/vod/
+天翼资源     https://www.911ysw.top/tianyi.php/provide/vod/
+易看资源-伦理     https://api.yikanapi.com/api.php/provide/vod/
+影库资源-伦理     https://api.ykapi.net/api.php/provide/vod/
+酷伦理     https://api.kudian70.com/api.php/provide/vod/
+ASMR   http://www.asmr19.in/api.php/provide/vod/
+CK资源            https://ckzy.me/api.php/provide/vod/
+CK资源2       http://www.feifei67.com/api.php/provide/vod/
+JAV名优       http://mygzycj.com/api.php
+乐播资源            https://lbapi9.com/api.php/provide/vod/at/json
+色南国资源            https://api.sexnguon.com/api.php/provide/vod/
+狼友资源            https://www.langyouzy.com/api.php/provide/vod/
+皇冠资源            https://hghhh.com/api.php/provide/vod/
+AIvin       http://lbapiby.com/api.php/provide/vod/at/json
+色猫资源            https://api.maozyapi.com/inc/apijson_vod.php
+葡萄资源            https://api.putaozy.net/inc/apijson_vod.php
+淫窝资源            https://api.yinwoapi.com/api.php/provide/vod/
+大MM资源            https://www.dmmapi.com/home/cjapi/asd2c7/mc10/vod/json
+99资源       http://99zy.pw/api.php/provide/vod/
+91麻豆            https://91md.me/api.php/provide/vod/
+酷豆资源            https://kudouzy.com/api.php/provide/vod/
+酷豆资源2            https://api.kdapi.info/api.php/provide/vod/
+奶茶资源            https://caiji.naichaapi.com/inc/apijson_vod.php
+爱播资源            https://cj.apiabzy.com/api.php/provide/vod/
+美少女资源            https://www.msnii.com/api/json.php
+淫水机资源            https://www.xrbsp.com/api/json.php
+香奶儿资源            https://www.gdlsp.com/api/json.php
+白嫖资源            https://www.kxgav.com/api/json.php
+大地资源            https://dadiapi.com/api.php
+环亚资源       http://wmcj8.com/inc/sapi.php
+小湿妹资源            https://www.afasu.com/api/json.php
+黄AV资源            https://www.pgxdy.com/api/json.php
+色色资源       http://secj8.com/inc/sapi.php
+玖玖资源       http://99zywcj.com/inc/sapi.php
+狼少年       http://cjmygzy.com/inc/sapi.php
+佳丽资源       http://www.jializyzapi.com/api.php/provide/vod/
+番号资源       http://fhapi9.com/api.php/provide/vod/
+鲨鱼资源            https://shayuapi.com/api.php/provide/vod/
+哥哥妹妹       http://www.ggmmzy.com:9999/inc/json
+丝袜资源            https://siwazyw.cc/api.php/provide/vod/at/json/
+芒果资源            https://mgzyz1.com/api.php/provide/vod/
+KK写真资源            https://kkzy.me/api.php/provide/vod/
+
+易看资源-伦理            https://api.yikanapi.com/api.php/provide/vod/
+影库资源-伦理            https://api.ykapi.net/api.php/provide/vod/
+酷伦理            https://api.kudian70.com/api.php/provide/vod/
+江湖官采       http://119.29.1.173/api.php/provide/vod/
+6U资源       http://www.6uzy.cc/inc/apijson_vod.php
+天堂资源       http://vipmv.cc/api.php/provide/vod/
+M3U8.TV资源       http://www.zycaiji.net:7788/api.php/provide/vod/
+八戒官采            https://www.bajiezy.xyz/api.php/provide/vod/
+土狗2345       http://2345.tgzy.cc/api.php/provide/vod/
+土狗360       http://360.tgzy.cc/api.php/provide/vod/
+诺讯资源       http://caiji.nxflv.com/api.php/provide/vod/
+艾克资源            https://ikcss.cn/api.php/provide/vod/
+devclh资源       http://zl.devclh.top/api.php/provide/vod/
+极狐官采       http://82.156.186.35:5678/api.php/provide/vod/
+忆梦       http://anltv.cn/api.php/provide/vod/
+木子看剧            https://mzkj.maccms.cf/api.php/provide/vod/
+小猫咪       http://zy.xiaomaomi.cc/api.php/provide/vod/
+绝影            https://106.12.153.187/api.php/provide/vod/
+阿远采集            https://www.cjzy.xyz:8888/api.php/provide/vod/
+极速BT资源            https://api.jisubt.com/videos
+步步高资源            https://api.yparse.com/api/json
+金鹰资源       http://jinyingzy.com/provide/vod
+蓝天资源            https://api.ltzyapi.com/api.php/provide/vod/
+极客资源            https://jkzy1.com/api.php/provide/vod/from/zkzym3u8/
+星海资源            https://www.xhzy01.com/api.php/provide/vod/
+冠军资源            https://www.cmpzy.com/api.php/provide/vod/
+1080资源库            https://api.1080zyku.com/inc/api_mac10.php
+TOM资源            https://api.tomcaiji.com/api.php/provide/vod/
+快车资源            https://caiji.kczyapi.com/api.php/provide/vod/
+松鼠资源            https://m3u8.songshuzy.com/api.php/provide/vod/
+多多资源            https://www.ddzyz1.com/api.php/provide/vod/
+OK资源            https://www.okcj.site/api/provide/vod/
+FOX资源            https://api.foxzyapi.com/api.php/provide/vod/
+量子资源       http://cj.lziapi.com/api.php/provide/vod/
+番茄资源       http://api.fqzy.cc/api.php/provide/vod/
+卧龙资源            https://collect.wolongzyw.com/api.php/provide/vod/
+红牛资源            https://www.hongniuzy2.com/api.php/provide/vod/
+樱花资源            https://m3u8.apiyhzy.com/api.php/provide/vod/
+易看资源            https://api.yikanapi.com/api.php/provide/vod/
+酷点资源            https://kudianzy.com/api.php/provide/vod/
+速更资源            https://sugengzy.cn/api.php/provide/vod/
+闪电资源       http://sdzyapi.com/api.php/provide/vod/
+飞速资源            https://www.feisuzy.com/api.php/provide/vod/
+光速资源            https://api.guangsuapi.com/api.php/provide/vod/
+新浪资源       http://api.xinlangapi.com/xinlangapi.php/provide/vod/
+鱼乐资源            https://api.ylzy1.com/api.php/provide/vod/
+韩剧资源       http://www.hanjuzy.com/inc/apijson_vod.php
+77韩剧            https://www.77hanju.com/api.php/provide/vod/
+快播资源       http://www.kuaibozy.com/api.php/provide/vod/
+八戒资源       http://cj.bajiecaiji.com/inc/apijson_vod.php
+百度资源            https://api.apibdzy.com/api.php/provide/vod/
+无尽资源            https://api.wujinapi.net/api.php/provide/vod/
+天空资源            https://api.tiankongapi.com/api.php/provide/vod/
+乐多资源       http://cj.leduocaiji.com/inc/api.php
+OK资源2       http://125.62.68.228/inc/api.php
+FF9资源            https://www.ff9.top/api.php/provide/vod/
+OK资源2       http://125.62.68.228/inc/api.php
+南国影源       http://api.nguonphim.tv/api.php/provide/vod/
+看看资源            https://zy.hikan.xyz/api.php/provide/vod/
+U酷资源           https://api.ukuapi.com/api.php/provide/vod/
+淘片资源           https://taopianapi.com/home/cjapi/as/mc10/vod/json
+一帆资源      (VPN)        http://api.if101.tv/v1/vod
+789盘           https://www.rrvipw.com/api.php/provide/vod/
+爱酷影视           https://www.zhanlangbu.com/api.php/provide/vod/
+旋风云        http://appimg.ssxmall.cn/api.php/provide/vod/
+龙腾资源        http://175.178.7.35:2020/api.php/provide/vod/
+奈菲迷           https://app.netflixmi.com/api.php/provide/vod/
+鸭奈飞        http://newtv.yanaifei.cn/api.php/provide/vod/
+奈飞云        http://45.125.46.41:4433/api.php/provide/vod/
+多多资源2           https://a.7dyu.cn/api.php/provide/vod/
+思古切片           https://cai.gbxy.net.cn/api.php/provide/vod/
+Mux切片           https://muxnb.muxvip.com/api.php/provide/vod/
+MuX2           https://video.muxvip.com/api.php/provide/vod/
+土剧TV        http://tujutv.top/api.php/provide/vod/
+XYUI        http://jx4.xyui.top:7001/api.php/provide/vod/
+ASMR        http://www.asmr19.in/api.php/provide/vod/
+OmoFun           https://app.omofun.net/api.php/provide/vod/
+考拉TV           https://ikaola.tv/api.php/provide/vod/
+盒子视界        http://eh.tvzy.cc/api.php/provide/vod/
+51看剧        http://www.51kanju.cn/api.php/provide/vod/
+波比影视        http://xxhhsc.top/api.php/provide/vod/
+西柚影视        http://43.135.75.180:9999/api.php/provide/vod/
+映迷         https://www.inmi.app/api.php/provide/vod/
+思古影院           https://www.siguyy.com/api.php/provide/vod/
+畅视影视        http://app.reboju.net/api.php/provide/vod/
+影视大全           https://app.okmedcos.com/api.php/provide/vod/
+益达影院        http://luobu.yss6080.com/api.php/provide/vod/
+乐活影视           https://lehootv.com/api.php/provide/vod/
+影图                  https://cj.vodimg.top/api.php/provide/vod/
+爱兜视频             http://id190.tpddns.cn:81/mogai_api.php/provide/vod/
+天诚影视             http://tcspvip.cn/api.php/provide/vod/
+瞬间影视             http://app.7en7.com/api.php/provide/vod/
+氢视频             http://www.h1080p.com/api.php/provide/vod/
+雨哥哥影视             http://cj.baozi66.top:66/api.php/provide/vod/
+天天影视             http://tt2022.ga/api.php/provide/vod/
+天天影视2             http://tttv.cf/api.php/provide/vod/
+盘看看             http://tvcaiji.pankk.cn/api.php/provide/vod/
+迪吧                  https://www.d8bi.cn/api.php/provide/vod/
+CV影视                  https://www.cccvvv.top/api.php/provide/vod/
+创艺影视                  https://www.30dian.cn/api.php/provide/vod/
+日诚影院             http://tv.rcz168.com/api.php/provide/vod/
+香瓜影视             http://v.xgvod.top/api.php/provide/vod/
+私人影视             http://204240.top:8899/api.php/provide/vod/
+火星影视             http://47.102.85.40/api.php/provide/vod/
+MX影院             http://rctv.top/api.php/provide/vod/
+MX影院2             http://49.235.107.145:81/api.php/provide/vod/
+4K狗             http://4kdog.tk/api.php/provide/vod/
+电视家             http://mytvhome.xyz/api.php/provide/vod/
+九狐影视             http://lb.gbxy.net.cn/api.php/provide/vod/
+幻风影视             http://vip857.top/api.php/provide/vod/
+白嫖影视             http://yingshi.qq120.top/api.php/provide/vod/
+影视大全2                  https://xc.xixi2yy.xyz/api.php/provide/vod/
+小鸟动漫             http://xydm.baicai.buzz/api.php/provide/vod/
+蜗牛动漫             http://woniudm.woniu.cyou:20000/api.php/provide/vod/
+速博影院             http://www.subolg.com/api.php/provide/vod/
+蒲公英视频             http://www.pgy1.top/api.php/provide/vod/
+铭轩影视             http://lz0716.com/api.php/provide/vod/
+海玉影视             http://tv2.hykjtv.cn/api.php/provide/vod/
+黄河影视             http://i.ledu8.cn/api.php/provide/vod/
+百淘影视             http://ys.58g8.com/api.php/provide/vod/
+阿里影视             http://aliys.cn:90/api.php/provide/vod/
+醉璃笙TV             http://web.xhdj.vip/api.php/provide/vod/
+热剧天堂             http://175.178.7.35:2020/api.php/provide/vod/
+贵宾影院             http://vipdytv.com/api.php/provide/vod/
+超高清影视             http://shdmv.com/api.php/provide/vod/
+艾思影院                  https://www.aitee.cc/api.php/provide/vod/
+39影视                  https://www.39kan.com/api.php/provide/vod/
+橘猫影视                  https://cj.zitv.cc/api.php/provide/vod/
+比邻影院             http://0hzy.cn:9990/api.php/provide/vod/
+飘花电影             http://www.zzrhgg.com/api.php/provide/vod/
+千寻时光             http://wy.dqyhg.cn/api.php/provide/vod/
+快看客栈                  https://www.vp1127.com/api.php/provide/vod/
+网民电影                  https://www.prinevillesda.org/api.php/provide/vod/
+胖猫影视                  https://www.pangmaotv.com/api.php/provide/vod/
+海外电影                  https://www.200121.com/api.php/provide/vod/
+非凡云       http://cj.ffzyapi.com/api.php/provide/vod/
+量子云            https://cj.lziapi.com/api.php/provide/vod/
+ikun云            https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json/
+光速云            https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/
+神马云            https://api.1080zyku.com/inc/apijson.php/
+188云            https://www.188zy.org/api.php/provide/vod/
+飞速云            https://www.feisuzyapi.com/api.php/provide/vod/
+红牛云            https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/
+百度云            https://api.apibdzy.com/api.php/provide/vod/
+酷点云            https://kudian10.com/api.php/provide/vod/
+淘片云            https://taopianapi.com/home/cjapi/as/mc10/vod/json/
+海外看       http://api.haiwaikan.com/v1/vod/
+FOX资源            https://api.foxzyapi.com/api.php/provide/vod/
+量子资源       http://cj.lziapi.com/api.php/provide/vod/
+神速资源            https://api.sszyapi.com/api.php/provide/vod/
+番茄资源       http://api.fqzy.cc/api.php/provide/vod/
+樱花资源            https://m3u8.apiyhzy.com/api.php/provide/vod/
+想看资源            https://m3u8.xiangkanapi.com/api.php/provide/vod/
+酷点资源            https://kudianzy.com/api.php/provide/vod/
+速更资源            https://sugengzy.cn/api.php/provide/vod/
+闪电资源       http://sdzyapi.com/api.php/provide/vod/
+光速资源            https://api.guangsuapi.com/api.php/provide/vod/
+新浪资源       http://api.xinlangapi.com/xinlangapi.php/provide/vod/
+鱼乐资源            https://api.ylzy1.com/api.php/provide/vod/
+韩剧资源       http://www.hanjuzy.com/inc/apijson_vod.php
+快播资源       http://www.kuaibozy.com/api.php/provide/vod/
+八戒资源       http://cj.bajiecaiji.com/inc/apijson_vod.php
+百度资源            https://api.apibdzy.com/api.php/provide/vod/
+无尽资源2            https://wuzy9.com/api.php/provide/vod/
+无尽资源            https://wujinzy.com/api.php/provide/vod/
+乐多资源       http://cj.leduocaiji.com/inc/api.php
+南国影源       http://api.nguonphim.tv/api.php/provide/vod/
+1080zyku1080资源库           https://api.1080zyku.com/inc/api_mac10.php
+龙腾资源      http://175.178.7.35:2020/api.php/provide/vod/
+39kan39影视           https://www.39kan.com/api.php/provide/vod/
+77hanju77韩剧           https://www.77hanju.com/api.php/provide/vod/
+anltv忆梦(官)      http://anltv.cn/api.php/provide/vod/
+apibdzy百度资源           https://api.apibdzy.com/api.php/provide/vod/
+apiyhzy樱花资源(切)           https://m3u8.apiyhzy.com/api.php/provide/vod/
+baicai小鸟动漫      http://xydm.baicai.buzz/api.php/provide/vod/
+bajiecaiji八戒资源(切)      http://cj.bajiecaiji.com/inc/apijson_vod.php
+banyung搬运工资源           https://cj.banyung.xyz/
+feisuzy飞速资源(切)           https://www.feisuzy.com/api.php/provide/vod/
+feisuzyapi飞速资源           https://m3u8.feisuzyapi.com/api.php/provide/vod/
+foxzyFOX采集           https://foxzy.net/api.php/provide/vod/
+foxzyapiFOX资源(切)           https://api.foxzyapi.com/api.php/provide/vod/
+fszy1飞速资源2      http://fszy1.com/api.php/provide/vod/
+guangsuapi光速资源           https://api.guangsuapi.com/api.php/provide/vod/
+hanjuzy韩剧资源(切)      http://www.hanjuzy.com/inc/apijson_vod.php
+hongniuzy2红牛资源(切)           https://www.hongniuzy2.com/api.php/provide/vod/
+inmi映迷                  https://www.inmi.app/api.php/provide/vod/
+jinyingzy金鹰      http://jinyingzy.com/provide/vod/
+kczyapi快车资源           https://caiji.kczyapi.com/api.php/provide/vod/
+kuaibozy快播资源(切)      http://www.kuaibozy.com/api.php/provide/vod/
+kudianzy酷点资源(切)           https://kudianzy.com/api.php/provide/vod/
+lehootv乐活影视           https://lehootv.com/api.php/provide/vod/
+lovedan艾旦影视           https://lovedan.net/api.php/provide/vod/
+lziapi量子资源      http://cj.lziapi.com/api.php/provide/vod/
+nguonphim南国影源(切)      http://api.nguonphim.tv/api.php/provide/vod/
+nxflv诺讯资源      http://caiji.nxflv.com/api.php/provide/vod/
+rrvipw789盘           https://www.rrvipw.com/api.php/provide/vod/from/789pan/
+sdzyapi闪电资源(切)      http://sdzyapi.com/api.php/provide/vod/
+taopianapi淘片资源                  https://taopianapi.com/home/cjapi/as/mc10/vod/json
+tiankongapi天空资源(切)           https://api.tiankongapi.com/api.php/provide/vod/
+tomcaijiTOM资源(切)           https://api.tomcaiji.com/api.php/provide/vod/
+tujutv土剧TV      http://tujutv.top/api.php/provide/vod/
+ukuapiU酷资源                  https://api.ukuapi.com/api.php/provide/vod/
+vodimg影图           https://cj.vodimg.top/api.php/provide/vod/
+wolongzyw卧龙资源(切)           https://collect.wolongzyw.com/api.php/provide/vod/
+wujinapi无尽           https://api.wujinapi.cc/api.php/provide/vod/
+wujinapi无尽资源           https://api.wujinapi.com/api.php/provide/vod/
+xiaomaomi小猫咪(官)      http://zy.xiaomaomi.cc/api.php/provide/vod/
+xinlangapi新浪资源(切)      http://api.xinlangapi.com/xinlangapi.php/provide/vod/
+yikanapi易看资源           https://api.yikanapi.com/api.php/provide/vod/
+ylzy1鱼乐资源           https://www.ylzy1.com/api.php/provide/vod/
+yparse步步高资源(切)           https://api.yparse.com/api/json
+zzrhgg飘花      http://www.zzrhgg.com/api.php/provide/vod/
+唐人街           https://www.tangrenjie.tv/api.php/provide/vod/at/json
+mbomovie           https://www.mbomovie.com/api.php/provide/vod/at/json
+OmoFun动漫           https://www.omofun.com/api.php/provide/vod/
+w7tv      http://w7tv.com/api.php/provide/vod/
+小蜻蜓APP      http://3ketv.com/api.php/provide/vod/
+番茄资源      http://api.fqzy.cc/api.php/provide/vod/at/json/  
+畅视影视      http://app.reboju.net/api.php/provide/vod/
+追剧吧APP      http://data.zju8.cc:1234/api.php/provide/vod/
+真不卡      http://db.taijuwang.cc/api.php/provide/vod/
+饭团影视      http://fantuan.wkfile.com/api.php/provide/vod/
+竹嘎(蓝光解析)      http://m.ycccyk.cn/api.php/provide/vod/
+爱看啦      http://v.aik.la/api.php/provide/vod/
+侦探APP      http://ys.huangguay.com/api.php/provide/vod/
+BL视频           https://bljiex.com/api.php/provide/vod/
+淘片资源           https://taopianzy.com/home/cjapi/c4ca4238a0b923820dcc509a6f75849b/vod/json
+北斗星资源备           https://v8.bdxzyapi.com/inc/api.php
+九九美剧           https://www.999meiju.com/api.php/provide/vod/
+YT影视      http://ytys.cc/api.php/provide/vod/
+火星2048           https://www.hx2048.com/api.php/provide/vod/
+游艺资源      http://360.hexh.ink/api.php/provide/vod/
+三零资源      http://api.000zy.com/provide/vod/
+萌果资源      http://api.appearoo.top/api.php/provide/vod/
+艾特      http://tv.aitesucai.xyz/api.php/provide/vod/at/json
+天堂资源      http://vipmv.cc/api.php/provide/vod/
+M3U8.TV资源      http://www.zycaiji.net:7788/api.php/provide/vod/at/json
+8090资源      http://zy.yilans.net:8090/api.php/provide/vod/
+2A资源      http://zy.zcocc.com/api.php/provide/vod/at/json/ 
+清欢Free资源           https://free.qinghuanzy.com/api.php/provide/vod/
+任我云           https://www.renwoyun.cn/api.php/provide/vod/
+7K(虾米)资源           https://zy.xmflv.vip/api.php/provide/vod/   
+融兴资源           https://www.rongxingvr.com/api.php/provide/vod/
+无极影院      http://wujiys.com/api.php/provide/vod/
+爱看1080      http://www.ik1080.com/api.php/provide/vod/at/json/
+KK看剧      http://www.kkkanju.com/api.php/provide/vod/at/json
+蓝果APP      http://www.languotv.com/api.php/provide/vod/
+飞鱼影视           https://app.feiyu5.com/api.php/provide/vod/
+39影视           https://www.39kan.com/api.php/provide/vod/at/json/
+白熊影院           https://www.bxyy5.com/api.php/provide/vod/
+嗨哆咪影视      http://hdmys1.com/api.php/provide/vod/
+蜂鸟视频           https://v.fnsp0.com/api.php/provide/vod/
+随便看电影           https://www.sbkdy.com/inc/api.php
+豆瓣资源      http://api.dbyunzy.com/api.php/provide/vod
+天空资源      http://api.tiankongapi.com/api.php/provide/vod/
+穿梭资源      http://ok.888hyk.com/api.php/provide/vod
+U酷资源      http://ukuzy.com/api.php/provide/vod
+605资源      http://www.605zy.co/inc/api.php
+88资源      http://www.88zy.live/inc/api.php
+韩剧资源      http://www.hanjuzy.com/inc/api
+天翼资源           https://www.911ysw.top/tianyi.php/provide/vod/at/json
+干饭影视      http://124.220.183.81:83/api.php/provide/vod/at/json
+ff9资源           https://www.ff9.top/api.php/provide/vod/at/json
+飘花影院      http://www.ahjiuman.com/api.php/provide/vod/at/json
+热剧天堂TV      http://175.178.7.35:2020/api.php/Sntv/vod/
+韩剧资源      http://www.hanjuzy.com/inc/apijson_vod.php
+龙腾资源      http://175.178.7.35:2020/api.php/provide/vod/
+热剧天堂      http://175.178.7.35:2020/api.php/provide/vod/
+无尽           https://api.wujinapi.cc/api.php/provide/vod/
+快车资源           https://caiji.kczyapi.com/api.php/provide/vod/
+量子资源      http://cj.lziapi.com/api.php/provide/vod/
+红牛资源           https://www.hongniuzy2.com/api.php/provide/vod/
+闪电资源      http://sdzyapi.com/api.php/provide/vod/
+飞速资源)           https://www.feisuzy.com/api.php/provide/vod/
+光速资源           https://api.guangsuapi.com/api.php/provide/vod/
+77韩剧           https://www.77hanju.com/api.php/provide/vod/
+FF9资源           https://www.ff9.top/api.php/provide/vod/
+U酷资源           https://api.ukuapi.com/api.php/provide/vod/
+6U资源      http://zy.ataoju.com/inc/apijson_vod.php
+八戒资源      http://cj.bajiecaiji.com/inc/apijson_vod.php
+天空资源      http://api.tiankongapi.com/api.php/provide/vod/
+天堂资源      http://vipmv.cc/api.php/provide/vod/
+闪电资源      http://sdzyapi.com/api.php/provide/vod/
+百度资源           https://api.apibdzy.com/api.php/provide/vod/
+飘花电影      http://www.zzrhgg.com/api.php/provide/vod/
